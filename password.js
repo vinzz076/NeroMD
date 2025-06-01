@@ -2,7 +2,7 @@
 
   "secretCode": "Vinzz",
 
-  "description": "Nero Multi Device", 
+  "description": "Sukuna Multi Device", 
 
   "lastUpdated": "31/05/2025",
 
@@ -12,6 +12,6 @@
 
   "license": "MIT",
 
-  "version": "1.0"
+  "version": "1.0.0"
 
     }
